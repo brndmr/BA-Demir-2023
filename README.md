@@ -3,7 +3,7 @@ verschiedene Bewegungen unter Verwendung von Deep Reinforcement Learning lernen 
 zu bilden. Die Quellen basieren auf einem bestehenden Programmiergerüst von NVIDIA: [https://github.com/isaac-sim/OmniIsaacGymEnvs](https://github.com/isaac-sim/OmniIsaacGymEnvs/blob/main/omniisaacgymenvs/tasks/anymal_terrain.py) und wurden an entsprechenden Stellen modifziert und erweitert. 
 
 YouTube-Links mit Video-Ergebnissen:
-1. Verbund der Hinsetz- und Aufstehroutine als Finite State Machine: https://youtu.be/QGbtk9avQN0
-2. Hinsetz-/Recoveryroutine in Isolation: https://youtu.be/qauOfmvRTeM
-3. Aufstehroutine in Isolation: https://youtu.be/Y2n27pMevuw
-4. Laufbewegung des Roboters: https://youtu.be/XeS8nvzo0rw
+1. Verbund der Hinsetz- und Aufstehroutine als Finite State Machine: https://youtu.be/eVbgfMT9lhY
+2. Hinsetz-/Recoveryroutine in Isolation: https://youtu.be/wx1NY47CWYM
+3. Aufstehroutine in Isolation: https://youtu.be/Hkt-IbKQjE8
+4. Laufbewegung des Roboters: https://youtu.be/vwh9map4Gbo
